@@ -43,7 +43,7 @@ pip install ollama tqdm humanize
 
 # OpenAI-powered UI Analysis
 
-This repository contains a Jupyter Notebook (`OpenAI.ipynb`) designed to analyze user interface screenshots using OpenAI's GPT-4o model. It processes images, generates detailed feedback based on a defined persona, and summarizes the findings into a user review.
+This repository contains a Jupyter Notebook (`GTP-4o computer vision.ipynb`) designed to analyze user interface screenshots using OpenAI's GPT-4o model. It processes images, generates detailed feedback based on a defined persona, and summarizes the findings into a user review.
 
 ## Dependencies and Setup
 
